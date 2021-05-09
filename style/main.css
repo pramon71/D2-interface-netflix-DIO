@@ -12,7 +12,7 @@
 /* Elementos Base */
 body {
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: #FFFFFF;
 }
 
@@ -52,7 +52,7 @@ header nav a:hover {
 
 .filme-principal .descricao {
     margin-top: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
  }
 
 .filme-principal .titulo {
@@ -95,4 +95,8 @@ header nav a:hover {
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carrosel-filmes {
+    margin-top: 5px;
 }
